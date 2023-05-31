@@ -6,29 +6,10 @@
 import Constants from "expo-constants";
 
 const ENV = {
-  development: {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    GRAPHQL_URL: "http://10.97.28.48:8000/graphql",
-    WS_GRAPHQL_URL: "ws://10.97.28.48:8000/graphql",
-    SERVER_URL: "http://10.97.28.48:8000/", // put / at the end of server url
-=======
-    GRAPHQL_URL: "http://10.97.28.39:8000/graphql",
-    WS_GRAPHQL_URL: "ws://110.97.28.39.90:8000/graphql",
-<<<<<<< HEAD
-    SERVER_URL: "http://110.97.28.39.90:8000/", // put / at the end of server url
-    // GRAPHQL_URL: "https://prod-enatega-single-api.herokuapp.com/graphql",
-    // WS_GRAPHQL_URL: "wss://prod-enatega-single-api.herokuapp.com/graphql",
-    // SERVER_URL: "https://prod-enatega-single-api.herokuapp.com/",
->>>>>>> c441ebf (Delete account button)
-=======
-    SERVER_URL: "http://110.97.28.39.90:8000/",
->>>>>>> 782d88b (aa)
-=======
+    development: {
     GRAPHQL_URL: "https://enatega-singlevendor.up.railway.app/graphql",
     WS_GRAPHQL_URL: "wss://enatega-singlevendor.up.railway.app/graphql",
     SERVER_URL: "https://enatega-singlevendor.up.railway.app/",
->>>>>>> 305efbd (after upgrade)
     Expo_CLIENT_ID_GOOGLE:
       "630195385603-82e52jpb722a8l0huhkspq3tqh2d6r6f.apps.googleusercontent.com",
     IOS_CLIENT_ID_GOOGLE:
