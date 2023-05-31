@@ -36,33 +36,6 @@ import Login from "../screens/Login/Login";
 import Register from "../screens/Register/Register";
 import ForgotPassword from "../screens/ForgotPassword/ForgotPassword";
 
-// import {
-//   Addresses,
-//   Cart,
-//   CartAddress,
-//   Chat,
-//   CreateAccount,
-//   EditAddress,
-//   ForgotPassword,
-//   FullMap,
-//   Help,
-//   HelpBrowser,
-//   ItemDetail,
-//   Login,
-//   MenuItems,
-//   MyOrders,
-//   NewAddress,
-//   OrderDetail,
-//   Paypal,
-//   Profile,
-//   RateAndReview,
-//   Register,
-//   SelectVoucher,
-//   Settings,
-//   StripeCheckout,
-//   Menu,
-// } from "../screens";
-
 import { THEME } from "../Theme";
 import { ICONS_NAME, NAVIGATION_SCREEN } from "../utils/constant";
 import navigationService from "./navigationService";
