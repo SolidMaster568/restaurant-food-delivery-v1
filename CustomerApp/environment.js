@@ -6,7 +6,7 @@
 import Constants from "expo-constants";
 
 const ENV = {
-    development: {
+  development: {
     GRAPHQL_URL: "https://enatega-singlevendor.up.railway.app/graphql",
     WS_GRAPHQL_URL: "wss://enatega-singlevendor.up.railway.app/graphql",
     SERVER_URL: "https://enatega-singlevendor.up.railway.app/",
